@@ -6,8 +6,8 @@ I will provide a video explain details of this topic soon:
 During that time I have just create my youtube channel [HERE](https://www.youtube.com/channel/UCFGCVG0P2eLS5jkDaE0vSfA)
 
 How to use:
-1. If you're comfortable with 'PIL,' use 'image.py'. If you're acquainted with 'OpenCV,' use 'image cv.py.'
-2. 'cam.py' recognizes utilizing a webcam, which I rewrote.
+1. If you're comfortable with `PIL`, use `image.py`. If you're acquainted with `OpenCV` use `image cv.py`
+2. `cam.py` recognizes utilizing a webcam, which I rewrote.
 3. `cam_tm.py` is the original webcam file from Teachable Machine
 
 
